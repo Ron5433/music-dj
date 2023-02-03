@@ -1,6 +1,6 @@
 var song="";
 function preload() {
-    song=loadSound("music.mp3");
+    song=loadSound("hi.mp3");
 }
 scoreRightWrist=0;
 
